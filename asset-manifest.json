@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactlastday/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactlastday/static/js/main.8088ded3.chunk.js",
+    "main.js.map": "/reactlastday/static/js/main.8088ded3.chunk.js.map",
+    "runtime-main.js": "/reactlastday/static/js/runtime-main.3e68e482.js",
+    "runtime-main.js.map": "/reactlastday/static/js/runtime-main.3e68e482.js.map",
+    "static/js/2.7efb534e.chunk.js": "/reactlastday/static/js/2.7efb534e.chunk.js",
+    "static/js/2.7efb534e.chunk.js.map": "/reactlastday/static/js/2.7efb534e.chunk.js.map",
+    "index.html": "/reactlastday/index.html",
+    "precache-manifest.2d3290e7da47ec103e4e1f0ff6ba07cf.js": "/reactlastday/precache-manifest.2d3290e7da47ec103e4e1f0ff6ba07cf.js",
+    "service-worker.js": "/reactlastday/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactlastday/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7efb534e.chunk.js.LICENSE.txt": "/reactlastday/static/js/2.7efb534e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactlastday/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e68e482.js",
+    "static/js/2.7efb534e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8088ded3.chunk.js"
+  ]
+}
