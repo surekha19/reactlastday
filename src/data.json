@@ -1,0 +1,26 @@
+{
+    "details":[
+     {
+      "card":{
+       "name":"surya",
+       "email":"surya@gmail.com",
+       "mobile":"987654321",
+       "description":"Apssdc Trainer"
+      },
+      "career":"want to be a journalist"
+     },
+   
+     {
+      "card":{
+       "name":"venkat",
+       "email":"venkat@gmail.com",
+       "mobile":"876590432",
+       "description":"Software Developer"
+      },
+      "career":"want to be a developer"
+
+     }
+    ]
+   }
+
+   
