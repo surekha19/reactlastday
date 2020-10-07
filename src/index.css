@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .education{
+
+} */
+
+.maindetails{
+  text-align: center;
+}
+.bootstraptable{
+  width:70%;
+  margin-left:15%;
+}
+
+.education > p{
+  margin-left:40px;
+    
+  
+}
